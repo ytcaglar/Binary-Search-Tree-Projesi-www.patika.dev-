@@ -1,6 +1,6 @@
 # Binary-Search-Tree-Projesi-www.patika.dev-
 
-Patika - Veri Yapıları ve Algoritmalar Derslerinin Alıştırma Projeleri Kapsamında Yapılmıştır. Binary Search Tree Projesi'dir. [www.patika.dev]
+***Patika - Veri Yapıları ve Algoritmalar Derslerinin Alıştırma Projeleri Kapsamında Yapılmıştır. Binary Search Tree Projesi'dir. [www.patika.dev]***
 
 
 ## Binary Search Tree Projesi
@@ -51,7 +51,7 @@ Patika - Veri Yapıları ve Algoritmalar Derslerinin Alıştırma Projeleri Kaps
  
  ![10](https://user-images.githubusercontent.com/93604446/193735446-d50e86c3-2ea8-44b8-83cd-90e14c96180d.PNG)
 
-
+## Projeyi İncelediğiniz için Teşekkür Ederim. Herkese başarılar dilerim...
 
  
 
